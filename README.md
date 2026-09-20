@@ -6,13 +6,19 @@ A full-stack web platform that lets a sports-camp operator plan camps, manage ac
 
 ## Screenshots
 
-Screenshots of the running application (demo data only) are being added, covering:
+Screenshots of the running application, using test data only.
 
-- Admin camp overview and camp creation
-- Session planning board
-- Accommodation timeline
-- Participant list and player profile
-- Public camp page and player booking flow
+**Admin dashboard: camp list with filters, KPIs and status tracking**
+
+![Admin camp overview](assets/01-admin-camp-overview.png)
+
+**Camp creation: multi-step wizard with draft saving, templates and live summary**
+
+![Camp creation wizard](assets/02-camp-creation.png)
+
+**Camp detail: occupancy, player statistics, courts and accommodation at a glance**
+
+![Camp detail overview](assets/03-camp-overview.png)
 
 ## Tech Stack
 
